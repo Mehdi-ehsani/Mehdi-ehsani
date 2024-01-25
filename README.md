@@ -4,10 +4,9 @@ I'm a front-end developer who loves creating beautiful and interactive web appli
 
 ## My GitHub Stats 📊
 
-<div width:"100%">
-  <div width:"50%">![](https://raw.githubusercontent.com/Mehdi-ehsani/Mehdi-ehsani/master/profile-summary-card-output/github/0-profile-details.svg)</div>
-  <div width:"50%">![](https://raw.githubusercontent.com/Mehdi-ehsani/Mehdi-ehsani/master/profile-summary-card-output/github/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/Mehdi-ehsani/Mehdi-ehsani/master/profile-summary-card-output/github/3-stats.svg)</div>
-</div>
+
+![](https://raw.githubusercontent.com/Mehdi-ehsani/Mehdi-ehsani/master/profile-summary-card-output/github/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Mehdi-ehsani/Mehdi-ehsani/master/profile-summary-card-output/github/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/Mehdi-ehsani/Mehdi-ehsani/master/profile-summary-card-output/github/3-stats.svg)
 
 
 
