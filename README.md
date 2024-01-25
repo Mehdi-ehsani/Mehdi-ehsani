@@ -4,7 +4,7 @@ I'm a front-end developer who loves creating beautiful and interactive web appli
 
 ## My GitHub Stats 📊
 
-!Metti's GitHub stats
+![](https://raw.githubusercontent.com/Mehdi-ehsani/Mehdi-ehsani/master/profile-summary-card-output/github/0-profile-details.svg)
 
 ## My Projects and Repositories 🚀
 
