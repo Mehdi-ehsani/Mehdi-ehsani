@@ -1,6 +1,6 @@
 # Hi there, I'm Metti 👋
 
-I'm a front-end developer who loves creating beautiful and interactive web applications. I have experience with HTML, CSS, JavaScript, React.js, and Tailwind CSS. I'm currently learning Next.js to build fast and scalable web apps. My goal is to become a full-stack developer and work in a professional team.
+I'm a front-end developer who loves creating beautiful and interactive web applications. I have experience with HTML, CSS, JavaScript,TypeScript, React.js, and Tailwind CSS. I'm currently learning Next.js to build fast and scalable web apps. My goal is to become a full-stack developer and work in a professional team.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mehdi-ehsani&theme=flat&no-frame=false&no-bg=false&margin-w=4)
