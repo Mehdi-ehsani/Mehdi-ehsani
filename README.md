@@ -1,6 +1,14 @@
 # Hi there, I'm Metti 👋
 
-I'm a front-end developer who loves creating beautiful and interactive web applications. I have experience with HTML, CSS, JavaScript,TypeScript, React.js, and Tailwind CSS. I'm currently learning Next.js to build fast and scalable web apps. My goal is to become a full-stack developer and work in a professional team.
+I'm a Front-End Developer passionate about building modern, scalable, and user-friendly web applications. I specialize in React.js, Next.js, TypeScript, and Tailwind CSS, with experience developing production-ready applications using modern frontend technologies and best practices.
+
+I have experience working in professional teams as a Front-End Developer and Front-End Team Lead, collaborating with designers, backend developers, and other team members to deliver high-quality products.
+
+My focus is on creating clean, maintainable, and performant code while building interactive user experiences. I'm familiar with tools and technologies such as React Query, Redux Toolkit, Zustand, React Hook Form, Zod, REST APIs, and modern development workflows including Git, Docker, CI/CD, and testing.
+
+Currently, I'm expanding my knowledge toward full-stack development by learning backend technologies and improving my understanding of scalable application architecture.
+
+My goal is to continue growing as a software engineer and contribute to impactful products in professional development teams.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mehdi-ehsani&theme=flat&no-frame=false&no-bg=false&margin-w=4)
